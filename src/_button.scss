@@ -1,0 +1,15 @@
+.btn {
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+    cursor: pointer;
+
+    &.wide {
+        width: 200px;
+    }
+
+    @include button-hover($color-background);
+}
