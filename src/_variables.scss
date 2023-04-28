@@ -1,8 +1,2 @@
-$color-background: grey;
-$color-primary: blue;
-
-@mixin button-hover($color) {
-    &:hover {
-        background-color: darken($color, 30%);
-    }
-}
+$background-color: #f3f3f3;
+$primary-color: red;

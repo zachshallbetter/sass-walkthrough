@@ -1,15 +1,8 @@
 body {
-  height: 100vh;
-  width: 100vw;
-  background-color: $color-background;
+  background-color: $background-color;
 }
 
 .container {
-  height: 100%;
-  width: 100%;
-
-    @media screen and (max-width: 768px) {
-        max-width: 768px;
-        margin: 0 auto;
-    }
+  max-width: 1200px;
+  margin: 0 auto;
 }

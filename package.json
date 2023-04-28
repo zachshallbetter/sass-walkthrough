@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch --update --no-source-map --style=compressed src:public"
+    "sass": "sass --watch src:public"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "url": "https://github.com/zachshallbetter/sass-walkthrough/issues"
   },
   "homepage": "https://github.com/zachshallbetter/sass-walkthrough#readme",
-  "dependencies": {
+  "devDependencies": {
     "sass": "^1.62.1"
   }
 }
