@@ -12,8 +12,8 @@
     "url": "git+https://github.com/zachshallbetter/sass-walkthrough.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Zach Shallbetter",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zachshallbetter/sass-walkthrough/issues"
   },

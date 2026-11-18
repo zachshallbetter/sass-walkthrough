@@ -29,4 +29,4 @@ A learning project, not a library. It has one dev dependency (`sass`).
 
 ## License
 
-`package.json` declares ISC, but the repository contains no `LICENSE` file.
+MIT. See [LICENSE](LICENSE).
